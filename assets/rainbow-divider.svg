@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 12" width="1200" height="12" preserveAspectRatio="none" role="img" aria-label="Rainbow divider">
+  <defs>
+    <linearGradient id="rainbow" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ff004c"/>
+      <stop offset="14%" stop-color="#ff8a00"/>
+      <stop offset="28%" stop-color="#ffe600"/>
+      <stop offset="42%" stop-color="#3dff4a"/>
+      <stop offset="57%" stop-color="#00e5ff"/>
+      <stop offset="71%" stop-color="#2a63ff"/>
+      <stop offset="85%" stop-color="#b200ff"/>
+      <stop offset="100%" stop-color="#ff004c"/>
+    </linearGradient>
+
+    <filter id="hue" color-interpolation-filters="sRGB">
+      <feColorMatrix type="hueRotate" values="0">
+        <animate attributeName="values" from="0" to="360" dur="6s" repeatCount="indefinite"/>
+      </feColorMatrix>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="12" rx="6" fill="url(#rainbow)" filter="url(#hue)"/>
+</svg>
