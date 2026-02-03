@@ -14,7 +14,7 @@ I'm a passionate developer who loves to create and innovate. I'm always learning
 - 💡 Interested in open source contributions and collaborative projects
 - 📫 Feel free to reach out and connect!
 
-
+<br>
 <img src="./assets/rainbow-divider.svg" width="100%" height="12" alt="Rainbow divider">
 
 ### 🛠️ Tech Stack & Tools
@@ -34,6 +34,7 @@ I'm a passionate developer who loves to create and innovate. I'm always learning
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,pycharm,notion,blender,discord,kali,gitlab," height="28" alt="Tools" />
 
 </div>
+<br>
 <img src="./assets/rainbow-divider.svg" width="100%" height="12" alt="Rainbow divider">
 
 ### 📊 GitHub Stats
@@ -52,6 +53,7 @@ I'm a passionate developer who loves to create and innovate. I'm always learning
   <img src="https://streak-stats.vercel.app/?user=MOD0912&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<br>
 
 <img src="./assets/rainbow-divider.svg" width="100%" height="12" alt="Rainbow divider">
 
@@ -61,13 +63,14 @@ I'm a passionate developer who loves to create and innovate. I'm always learning
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOD0912)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melvin.kapferer@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=Instagram&logoColor=white)](mailto:melvin.kapferer@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/melvin.kapferer/)
 
 </div>
+<br>
 <img src="./assets/rainbow-divider.svg" width="100%" height="12" alt="Rainbow divider">
 
 
-### 💻 Recent Activity
+### 💻 Recent Activity 
 
 <p align="center">
   <a href="https://github.com/MOD0912/rainbowborder">
@@ -78,10 +81,10 @@ I'm a passionate developer who loves to create and innovate. I'm always learning
 <!--END_SECTION:activity-->
 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MOD0912&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
 
+
+
+<br>
 <img src="./assets/rainbow-divider.svg" width="100%" height="12" alt="Rainbow divider">
 
 <div align="center">
