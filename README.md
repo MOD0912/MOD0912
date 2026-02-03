@@ -37,13 +37,18 @@ I'm a passionate developer who loves to create and innovate. I'm always learning
 <img src="./assets/rainbow-divider.svg" width="100%" height="12" alt="Rainbow divider">
 
 ### 📊 GitHub Stats
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MOD0912&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=MOD0912&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MOD0912&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MOD0912&theme=dark" alt="GitHub Profile Details" />
+      </a>
+  </div>
+  <br>
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=MOD0912&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MOD0912&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  </div>
+  <br>
   <img src="https://streak-stats.vercel.app/?user=MOD0912&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
