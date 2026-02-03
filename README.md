@@ -2,6 +2,7 @@
   <h1>👋 Hi, I'm MOD0912</h1>
   <h3>Developer | Coder | Tech Enthusiast</h3>
 </div>
+<img src="https://media1.tenor.com/m/ZWiW8qKBiKUAAAAd/sei-la.gif" width="100%", height="200" alt="Mario Super Mario 64 GIF">
 <img src="./assets/rainbow-divider.svg" width="100%" height="12" alt="Rainbow divider">
 
 ### 🚀 About Me
@@ -59,10 +60,11 @@ I'm a passionate developer who loves to create and innovate. I'm always learning
 </div>
 <img src="./assets/rainbow-divider.svg" width="100%" height="12" alt="Rainbow divider">
 
+
 ### 💻 Recent Activity
 
 <p align="center">
-  <a href="https://github.com/LukasKrah/WoW-Dashboard-Client">
+  <a href="https://github.com/MOD0912/rainbowborder">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOD0912&repo=Rainbowborder&theme=dark" alt="Rainbowborder">
   </a>
 </p>
@@ -78,3 +80,4 @@ I'm a passionate developer who loves to create and innovate. I'm always learning
 <div align="center">
   <h3>Show some ❤️ by starring some repositories!</h3>
 </div>
+<img src="https://media1.tenor.com/m/KJWBwV-qrY8AAAAd/mario-super-mario-64.gif" width="100%", height="200" alt="Mario Super Mario 64 GIF">
